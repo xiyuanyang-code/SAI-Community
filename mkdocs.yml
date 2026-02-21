@@ -3,9 +3,9 @@ site_author: SAI
 site_description: >-
   SAI Community
 
-site_url: https://sjtu-sai.github.io/SAI-Community/
+site_url: https://sjtu-sai-geekcenter.github.io/SAI-Community/
 repo_name: SAI Community
-repo_url: https://github.com/SJTU-SAI/SAI-Community
+repo_url: https://github.com/SJTU-SAI-GeekCenter/SAI-Community
 
 theme:
   custom_dir: overrides
