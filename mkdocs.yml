@@ -97,12 +97,13 @@ markdown_extensions:
 nav:
   - Hello World: "index.md"
   - About: "about.md"
-  - Roadmaps:
-    - README: "roadmaps/init.md"
-    - Website: "roadmaps/website-recommend.md"
-  - Tools:
-    - 命令行入门: "tools/cli.md"
-    - Python 项目管理: "tools/python-package-managing.md"
+  - Guidance:
+    - Roadmaps:
+      - README: "roadmaps/init.md"
+      - Website: "roadmaps/website-recommend.md"
+    - Tools:
+      - 命令行入门: "tools/cli.md"
+      - Python 项目管理: "tools/python-package-managing.md"
   - Courses:
     - README: "courses/init.md"
     - Semester 1.1:
@@ -123,7 +124,8 @@ nav:
         - Advanced Markdown: "contributions/markdown_tutorial.md"
         - Local Launch: "contributions/local_run.md"
         - Demo: "templates/template.md"
-        - Pull Request Tutorial: "contributions/Pull_Request_Tutorial.md"
+        - Pull Request Tutorial: "contributions/pull_request_tutorial.md"
+        
 
 plugins:
   - glightbox

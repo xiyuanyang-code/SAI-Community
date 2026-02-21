@@ -68,6 +68,8 @@ icon: material/emoticon-happy
 
     Developer's Roadmap for self-learning and AI.
 
+    [:octicons-arrow-right-24: Dev Roadmaps](./roadmaps/init.md)
+
 
 -   :fontawesome-solid-handshake-angle:{ .lg .middle } __Contributions__
 
